@@ -45,4 +45,4 @@ Goal 5: Shutdown when done
 
 # Cost
 
-
+$3.55 USD - OpenAI GPT-4 API usage
