@@ -1,0 +1,4 @@
+Here is a list of resources on developing on the Lightning Network provided by the Payment Network AI Agent: 
+1. Lightning Network Daemon (LND) Developer Site: https://dev.lightning.community/ 
+2. Lightning App Developer Kit (LADK): https://github.com/lightninglabs/lightning-app 
+3. Lightning Network Python (LNPy): https://github.com/lnpy/lnpy

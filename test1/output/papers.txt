@@ -1,0 +1,6 @@
+Academic Papers on Lightning Network and Bitcoin Payment Network: 
+
+- The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments by J. Poon and T. Dryja
+- A Percolation Model for the Emergence of the Bitcoin Lightning Network by S. Bartolucci, F. Caccioli, and P. Vivo
+- An Empirical Analysis of Privacy in the Lightning Network by G. Kappos, H. Yousaf, A. Piotrowska, and S. Kanjalkar
+- Mastering the Lightning Network by A. Antonopoulos, O. Osuntokun, and R. Pickhardt

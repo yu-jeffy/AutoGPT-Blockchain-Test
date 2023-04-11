@@ -1,0 +1,8 @@
+As a supplier, I can register my products with the contract.
+As a supplier, I can verify that my products have been received by the distributor.
+As a distributor, I can verify that the products received from the supplier match what was registered.
+As a distributor, I can register the products received from the supplier.
+As a retailer, I can verify that the products received from the distributor match what was registered.
+As a retailer, I can register the products received from the distributor.
+As a consumer, I can verify the authenticity of a product by scanning its barcode.
+As an auditor, I can verify the authenticity and history of a product by querying the blockchain.

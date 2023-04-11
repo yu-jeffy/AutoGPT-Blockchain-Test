@@ -1,0 +1,1 @@
+Created file 'recent_files.txt'.
