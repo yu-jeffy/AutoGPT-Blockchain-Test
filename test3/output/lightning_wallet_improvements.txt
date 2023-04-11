@@ -1,0 +1,6 @@
+- Convert the function constructor to a class for better code organization and scalability.
+- Use 'let' or 'const' instead of 'this' for private properties to avoid changing the properties unintentionally.
+- Use arrow functions for methods to avoid issues with 'this' context and improve readability.
+- Add error handling for negative balance in 'sendFunds' method to prevent overdrafting.
+- Add input validation for 'amount' and 'address' in 'sendFunds' method to prevent errors and ensure user input is clean.
+- Add input validation for 'amount' in 'receiveFunds' method to prevent errors and ensure user input is clean.
